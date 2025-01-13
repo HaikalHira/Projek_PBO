@@ -1,0 +1,12 @@
+{
+  "nama": "Haikal Hira Habibillah",
+  "anggaran": 100000,
+  "rencana": [
+    { "destinasi": "Merapi Park - Rp20000" }
+,
+    { "destinasi": "Candi Borobudur - Rp50000" }
+,
+    { "destinasi": "Bakpia Pathok 25 - Rp20000" }
+  ],
+  "totalBiaya": 90000
+}
